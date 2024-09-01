@@ -1,4 +1,4 @@
-# TO-DO App
+# TO-DO
 
 A simple and intuitive TO-DO app designed to help users manage their tasks efficiently. The app allows users to create, update, and delete tasks, set deadlines, and organize their daily activities effectively.
 
